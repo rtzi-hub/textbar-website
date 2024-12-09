@@ -43,3 +43,6 @@ This project sets up a static website on S3 with API Gateway for data submission
 ```bash
 terraform destroy
 ```
+
+Example of the website
+![Screenshot 2024-12-09 135822](https://github.com/user-attachments/assets/17af671c-0c73-4f5c-a44d-4fff8e4cc973)
