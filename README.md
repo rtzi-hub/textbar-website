@@ -19,10 +19,11 @@ This project sets up a static website on S3 with API Gateway for data submission
 
 ### Steps to Deploy
 
-1. **Clone the Repository**:
+1. **Clone the Repository & Connect to your aws account**:
 
    ```bash
    git clone https://github.com/rtzi-hub/textbar-website.git
+   aws configure
    ```
 2. **Initialize and Apply Terraform**
 
