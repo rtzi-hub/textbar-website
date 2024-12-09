@@ -45,4 +45,6 @@ terraform destroy
 ```
 
 Example of the website
+
+Url for exist website: http://textbarwebsite.s3-website-us-east-1.amazonaws.com
 ![Screenshot 2024-12-09 135822](https://github.com/user-attachments/assets/17af671c-0c73-4f5c-a44d-4fff8e4cc973)
