@@ -7,7 +7,10 @@ This project sets up a static website on S3 with API Gateway for data submission
 - **S3**: Hosts the static website (index.html, error.html).
 - **API Gateway**: Manages the API for submitting and retrieving text entries.
 - **Lambda Functions**: Handles backend logic for interacting with DynamoDB.
-- **DynamoDB**: Stores submitted entries. (In this case we are using exist dynamodb via api, If you want to use the new dynamodb you will need to change the index.html file.)
+- **DynamoDB**: Stores submitted entries. (You will need to use the new api invoke url, change the index.html file according to the screenshot below.)
+
+  ![image](https://github.com/user-attachments/assets/bea6ff5b-82a8-42cf-8276-9a5e15ffc3df)
+
 
 ## Setup
 
